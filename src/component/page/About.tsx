@@ -18,12 +18,12 @@ export default function About() {
                             className="text-gray-900 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
                             Tentang Kami</h2>
                         <p className="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center">
-                        Warung Sate Malanda telah menjadi ikon kuliner lokal dengan cita rasa sate autentik yang melegenda. 
-                        Kami menghidangkan sate dengan resep turun-temurun yang menggunakan bahan-bahan segar dan bumbu pilihan.</p>
+                        Datang dan nikmati kelezatan sate kami di tempat yang nyaman dan ramah keluarga. 
+        Kami selalu berusaha memberikan pengalaman kuliner terbaik untuk setiap pengunjung.</p>
                     </div>
                     <div className="w-full lg:justify-start justify-center items-center sm:gap-10 gap-5 inline-flex">
                         <div className="flex-col justify-start items-start inline-flex">
-                            <h3 className="text-gray-900 text-4xl font-bold font-manrope leading-normal">33+</h3>
+                            <h3 className="text-gray-900 text-4xl font-bold font-manrope leading-normal">15+</h3>
                             <h6 className="text-gray-500 text-base font-normal leading-relaxed">Tahun Berdiri</h6>
                         </div>
                         <div className="flex-col justify-start items-start inline-flex">

@@ -1,6 +1,6 @@
 // import sateImage from "../../assets/sate_bg.jpeg";
 
-export default function SliderImage() {
+export default function Hero() {
   const scrollToAddress = () => {
     const addressSection = document.querySelector("#address");
     if (addressSection) {
@@ -12,9 +12,9 @@ export default function SliderImage() {
                 <div className="max-w-screen-xl mx-auto text-gray-600 gap-x-12 items-center justify-between overflow-hidden md:flex md:px-8">
                     <div className="flex-none space-y-5 px-4 sm:max-w-lg md:px-0 lg:max-w-xl">
                         <h1 className="text-sm text-indigo-600 font-medium">
-                            Over 200 successful deals
+                           Cita Rasa Sate Malanda
                         </h1>
-                        <h2 className="text-4xl text-gray-800 font-extrabold md:text-5xl">
+                        <h2 className="text-4xl text-gray-800 font-extrabold md:text-5xl lg:text-6xl dark:text-slate-50">
                           Sate Tradisional, Rasa Sensasional!
                         </h2>
                         <p>
