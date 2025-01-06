@@ -1,12 +1,14 @@
 import Footer from "./component/Footer";
-import SliderImage from "./component/hero/SliderImage";
+import HeroSection from "./component/page/Hero";
 import Navbar from "./component/Navbar";
+import Address from "./component/page/Address";
 
 export default function App() {
   return (
     <div className="App">
       <Navbar />
-      <SliderImage />
+      <HeroSection />
+      <Address />
       <Footer />
     </div>
   );
