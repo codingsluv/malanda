@@ -2,7 +2,9 @@ export default function Navbar() {
   return (
     <div className="navbar bg-base-100 container mx-auto">
       <div className="flex-1">
-        <a className="btn btn-ghost text-xl">Malanda | Sate</a>
+        <a className="btn btn-ghost text-md">Malanda | Sate
+        <img src="/logo.svg" alt="logo" className="h-8 w-8 rounded-full" />
+        </a>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">

@@ -1,6 +1,6 @@
 export default function Address() {
   return (
-    <div className="container mx-auto py-6">
+    <div className="container mx-auto py-6 size-100">
         <div id="address" className="card md:card-side bg-base-200">
       <figure>
         <img
